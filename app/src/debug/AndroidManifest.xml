@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.msiazn.foundationapp">
+
+    <application>
+        <activity
+            android:name="com.msiazn.foundationapp.HiltTestActivity"
+            android:exported="false"  />
+    </application>
+
+</manifest>
